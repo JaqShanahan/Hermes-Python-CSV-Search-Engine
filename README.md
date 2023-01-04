@@ -7,7 +7,7 @@
     <img src="images/atom.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hermes Emailer</h3>
+  <h3 align="center">Hermes Python CSV Search Engine (PCSE)</h3>
 
   <p align="center">
     This tool/project is apart of the Hermes().Suite a collective set of tools that aid in developing better AI
@@ -52,7 +52,7 @@
 
 ## About The Project
 
-This project/tool is used to generate a search menu for csv database files.
+This script is a search engine that allows the user to search a local CSV file for a specific string. The search results are displayed to the user, and the user can choose to view one of the articles in the search results. If the user wants to search for something else, they can do so by entering "y" at the prompt. If they don't want to search again, they can enter "n" to exit the search loop. The script uses the csv library to read the CSV file and extract the relevant data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
