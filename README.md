@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JaqShanahan/Python-Email-Program">
+  <a href="https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine/">
     <img src="images/atom.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     This tool/project is apart of the Hermes().Suite a collective set of tools that aid in developing better AI
     <br />
-    <a href="https://github.com/JaqShanahan/Python-Email-Program"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JaqShanahan/Python-Email-Program">View Demo</a>
+    <a href="https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine/">View Demo</a>
     ·
-    <a href="https://github.com/JaqShanahan/Python-Email-Program/issues">Report Bug</a>
+    <a href="https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JaqShanahan/Python-Email-Program/issues">Request Feature</a>
+    <a href="https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine/issues">Request Feature</a>
   </p>
 </div>
 
@@ -45,7 +45,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -53,14 +52,7 @@
 
 ## About The Project
 
-![alt text](images/Screenshot.png)
-
-This project/tool is used to generate beutiful looking emails from the python terminal. This project includes the following features that are available for developers.
-
-Here's why:
-
-- You should not have to pay for expensive email services to send nice looking emails.
-- You shouldn't be doing the same tasks over and over like creating emails yourself.
+This project/tool is used to generate a search menu for csv database files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +82,7 @@ _Below is how you you can access this tool. It is freely and readily accessible 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JaqShanahan/Python-Email-Program.git
+   git clone https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine.git
    ```
 2. import the CSV Database Search
    ```py
@@ -115,7 +107,7 @@ This project/tool is under a free license as we believe that it should be free s
 - [ ] Add back to top links
 - [ ] Add more customizations
 
-See the [open issues](https://github.com/JaqShanahan/Python-Email-Program/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +142,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@JaqShanahan](https://www.linkedin.com/in/jaq-shanahan-a327ba21a/) - jaqshanahan@gmail.com
 
-Project Link: [https://github.com/JaqShanahan/Python-Email-Program](https://github.com/JaqShanahan/Python-Email-Program)
+Project Link: [JaqShanahan/Hermes-Python-CSV-Search-Engine](https://github.com/JaqShanahan/Hermes-Python-CSV-Search-Engine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

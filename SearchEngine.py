@@ -24,7 +24,7 @@ def local_database_search(file_path):
                     search_results[count] = an, title
                     count += 1
             # Print the search results
-            print('Hermes Search Engine')
+            print('\nHermes Search Engine')
             print('(c) Hermes Corporation. All rights reserved.\n')
             print(f"{len(search_results)} search results for '{title_search}'\n")
             for i in search_results:
